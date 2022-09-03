@@ -39,7 +39,7 @@ h3{
 }
 
 hr{
-    border: dotted #EAF6f6 6px;
+    border: dotted #E0DECA 6px;
     border-bottom: none;
     width: 20%;
     margin: 100px auto;
@@ -128,9 +128,6 @@ a:hover{
     width:15%;
     float: right;
     margin-left: 15px;
-    
-   
-
 }
 
 
